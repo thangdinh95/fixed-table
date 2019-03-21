@@ -1,4 +1,4 @@
-# fixed-table
+# Fixed Table
 
 ## HTML Markup 
 ```
